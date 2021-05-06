@@ -1,0 +1,24 @@
+{
+  "name": "alura-angularjs",
+  "version": "1.0.0",
+  "description": "description for the Alura-angularjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maiamona/hello-world.git"
+  },
+  "author": "Maiamona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maiamona/hello-world/issues"
+  },
+  "homepage": "https://github.com/maiamona/hello-world#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-connect": "^5.7.0"
+  }
+}
